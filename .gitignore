@@ -113,3 +113,4 @@ tf_model/__pycache__
 *.png
 *.jpg
 *.jpeg
+tf_model/temp_training*
